@@ -1,0 +1,3 @@
+create database db if exists;
+create schema db_schema if exists;
+create table emp(id number,name varchar,loc varchar);
